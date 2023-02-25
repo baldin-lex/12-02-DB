@@ -39,7 +39,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![DB](images/4.jpg)
 
-![DB](images/4.1.jpg)
+![DB](images/4.2.jpg)
 
 ----
 
